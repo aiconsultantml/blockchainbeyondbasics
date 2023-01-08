@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MetaMask Connection Page</title>
+  <script>
+    async function WalletConnect() {
+      console.log("here");
+      if (typeof window.ethereum !== "undefined") {
+        const walletAddr = await ethereum.request({method: "eth_requestAccounts"});
+        console.log(walletAddr);
+        console.log("Metamask is installed");
+
+        document.getElementById("walletAddrText").innerHTML = walletAddr;
+
+      } else {
+        console.log("Metamask in not installed");
+      }
+    }
+
+    async function checkWalletBalance() {
+      console.log("here in Check Balance ", document.getElementById("walletAddrText").innerHTML);
+      // this statement assigns the Wallet Addr reading from the Wallet
+      walletAddr = document.getElementById("walletAddrText").innerHTML;
+
+      // this statement gets the balance of  the Wallet Addr reading from the Wallet
+      let walletBalance = await window.ethereum.request({
+        method: "eth_getBalance",
+        params: [
+          walletAddr,
+          'latest'
+        ]
+      }).catch((err) => {
+        console.log(err)
+      })
+
+      console.log("Balance in hex ", walletBalance)
+      console.log("Balance in ETH ", parseFloat((walletBalance) / Math.pow(10, 18)))
+      document.getElementById("walletBalanceText").innerText = parseFloat((walletBalance) / Math.pow(10, 18))
+    }
+  </script>
+</head>
+
+<body>
+  <center>
+    <h1>Blockchain Beyond Basics!</h1>
+    <button id='connectMetamaskWallet' onclick="WalletConnect()"><b>Connect Metamask Wallet</b></button>
+    <br>
+    <p id="walletAddrText"> Not Connected</p>
+    <br>
+
+    <br>
+    <button id='getAccountBalance' onclick="checkWalletBalance()"><b>Get Balance of Wallet</b></button>
+
+    <br>
+    <p id="walletBalanceText"></p>
+    <br>
+
+  </center>
+</body>
+
+</html>
