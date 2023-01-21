@@ -2,6 +2,7 @@
 Blockchain Beyond Basics
 
 Google Classroom free course: https://tinyurl.com/blockchain-free-course 
+
 Facebook Group: https://tinyurl.com/fb-blockchain 
 
 Blockchain Do it yourself tutorials:
