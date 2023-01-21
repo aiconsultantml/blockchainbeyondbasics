@@ -1,0 +1,46 @@
+#,Topic,Name,Link,,,,
+1,Blockchain,Blockchain Basics Explained for Layman in 10 min,https://youtu.be/apzFDeBx3Ic,,,,
+2,Blockchain,What is Bitcoin? | What is proof of work (POW)? | What is proof of stake POS?,https://youtu.be/d1yGPm123A4,,,,
+3,Blockchain,Top 10 Blockchain Terminology - A glossary for beginners | Top 10 Commonly used Crypto Terms,https://youtu.be/8_DmhwIgiiI,,,,
+4,Blockchain,Blockchain 101 - Getting started with Solidity & Web3 | Blockchain for beginners | Blockchain DIY,https://youtu.be/CwqDTTeh_oc,,,,
+5,Blockchain,What is a Smart Contract? | What is DeFi? | What are Smart Contracts?,https://youtu.be/IQT5mLMzR1g,,,,
+6,Solidity,Learn Solidity by example | Smart Contracts Tutorial use cases| Smart Contracts Applications - DIY#1,https://youtu.be/CLzNhyYnqkk,,,,
+7,Solidity,"Solidity - Getting Started - DIY #1",https://youtu.be/_wkJexbHirA,,,,Solidity
+8,Solidity,Solidity - Variables & DataTypes - DIY #2,https://youtu.be/5r_RkRgMuBQ,,,,Web3js
+9,Solidity,Solidity - Functions - DIY #3,https://youtu.be/OzZO1TrCDBk,,,,Web3py
+10,Solidity,Solidity - Functions Types - DIY #4,https://youtu.be/O-F5O-ayb6A,,,,Blockchain
+11,Solidity,Solidity - Structs & Arrays - DIY #5,https://youtu.be/IOKRlU5LyPg,,,,
+12,Solidity,Solidity - Mappings - DIY #6,https://youtu.be/noObOMDqzQ8,,,,
+13,Solidity,Solidity - Functions to return Array - DIY #7,https://youtu.be/uvIAG_0Hwy4,,,,
+14,Solidity,Solidity - Working Across Contracts - DIY#8,https://youtu.be/vlwDH-jtIH0,,,,
+15,Solidity,Solidity - Working with Array of Contracts - DIY#9,https://youtu.be/KIrG1EWBin4,,,,
+16,Solidity,Solidity - Working Across Contracts Advanced - DIY#10,https://youtu.be/YVcUZ_92E5Q,,,,
+17,Solidity,Solidity - Contract Inheritance & Override Functions - DIY#11,https://youtu.be/ioYSLGJM584,,,,
+18,Solidity,Solidity - Deposit Ether to a Contract - DIY#12,https://youtu.be/3Fnvx7ARaOQ,,,,
+19,Solidity,Solidity - Record Deposits to a Contract - DIY#13,https://youtu.be/9J9KPGkJwg0,,,,
+20,Solidity,Solidity - Withdraw Ether from a Contract - DIY#14,https://youtu.be/F0mQRVUqutw,,,,
+21,Solidity,Solidity - Withdraw Ether from a Contract contd- DIY#15,https://youtu.be/-9mFyWmeRG0,,,,
+22,Solidity,Solidity - Constructors & Modifiers - DIY#16,https://youtu.be/Vahu61s-_Ss,,,,
+23,Solidity,Solidity - Low level transactions & Calldata - DIY#17,https://youtu.be/QwEFWq8P9fg,,,,
+24,Solidity,Solidity - Fallback & Receive Functions - DIY#18,https://youtu.be/7GFFENmrpz4,,,,
+25,Solidity,Create a Wallet for Cryptocurrency | Create a Crypto Wallet using Metamask | A Digital Crypto Wallet,https://youtu.be/X1P8vaWFFs8,,,,
+26,Solidity,Solidity - Deploy a smart contract to Ethereum Testnet (Goerli) - DIY#19,https://youtu.be/NjbsM8VmW_A,,,,
+27,Advanced,What are NFTs? | How to create a NFT? | What is IPFS? | NFT Solidity Tutorial | NFT Do it yourself,https://youtu.be/YQJCVgcsf8s,,,,
+28,Web3js,WEB3JS - Getting Started - Accessing Ethereum Transactions DIY#1,https://youtu.be/9E9dvlgt0uk,,,,
+29,Web3js,WEB3JS - Create a Wallet Address - DIY#2,https://youtu.be/RE_CBYpdc3U,,,,
+30,Web3js,"Web3JS - Get Balance from a Wallet - DIY#3",https://youtu.be/nQ2qKSvNZz4,,,,
+31,Web3js,"Web3JS - Send an Ether Transaction - DIY#4",https://youtu.be/XIrnH8LYefM ,,,,
+32,Web3js,"Web3JS - Deploy a Smart Contract - DIY#5",https://youtu.be/NB3mhSt3k98,,,,
+33,Web3js,Web3JS - Execute a Smart Contract - DIY#6,https://youtu.be/h7cckStUBK0,,,,
+34,Web3js,"Web3JS - Listening to Contract Events - DIY#7",https://youtu.be/rJwF2GgeNZ0,,,,
+35,Web3js,WEB3JS - Command Line Interface (CLI-demo) - DIY#8,https://youtu.be/AHQaABLDGfQ,,,,
+36,Web3py,"Web3PY - Get Balance from Wallet - DIY#1",https://youtu.be/gbVkL7dlCh0 ,,,,
+37,Web3py,"Web3PY - Send an Ether Transaction - DIY#2",https://youtu.be/0dH5QlvsQpM,,,,
+38,Web3py,Web3PY - Deploy a Smart Contract - DIY#3,https://youtu.be/dpRyqjvlHjk ,,,,
+39,Web3py,"Web3PY - Execute a Smart Contract - DIY#4",https://youtu.be/zz4aqe1v530,,,,
+40,Web3py,Web3PY - Filters to track Contract Events - DIY#5,https://youtu.be/nfG7Dr7N6Xg,,,,
+41,Advanced,Web3 Use Case - Connect a Metamask Wallet to a Web Page | Connect a Wallet to your Website,https://youtu.be/FntAV1MCVJw,,,,
+42,Advanced,How to Create a Token (Step-by-Step ERC20 Transferable Token) | Create cryptocurrency/Token in 10min,https://youtu.be/2slV_SkN-sA,,,,
+43,Advanced,Flash Loan Arbitrage Step-by-Step Guide | AAVE Flash Loans Solidity DIY Tutorials | Solidity Code,https://youtu.be/FJEVuhyywI8,,,,
+44,Advanced,Rate Tokens using Unsupervised Machine Learning- Artificial Intelligence in Blockchain | Tokenomics,https://youtu.be/EGCFuylZ6d4,,,,
+45,Advanced,Machine Learning Time Series Forecasting on Bitcoin Prices | AI Predictions on Bitcoin Prices,https://youtu.be/2BdU-RW49VQ,,,,
